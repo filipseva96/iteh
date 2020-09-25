@@ -1,0 +1,16 @@
+
+#0 {main}
+  thrown in C:\xampp\htdocs\prodavnica\admin.php on line 43
+[30-Jan-2020 22:36:18 Europe/Berlin] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in C:\Users\Milica\Desktop\xa\htdocs\eapoteka\db.php on line 604
+[30-Jan-2020 22:36:18 Europe/Berlin] PHP Warning:  MysqliDb::_prepareQuery(): Couldn't fetch mysqli in C:\Users\Milica\Desktop\xa\htdocs\eapoteka\db.php on line 605
+[30-Jan-2020 22:36:18 Europe/Berlin] PHP Fatal error:  Problem preparing query (select * from lekovi l join kategorijalekova kl  on l.kategorijaID = kl.kategorijaID )  in C:\Users\Milica\Desktop\xa\htdocs\eapoteka\db.php on line 605
+[30-Jan-2020 22:46:05 Europe/Berlin] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in C:\Users\Milica\Desktop\xa\htdocs\eapoteka\db.php on line 604
+[30-Jan-2020 22:46:05 Europe/Berlin] PHP Warning:  MysqliDb::_prepareQuery(): Couldn't fetch mysqli in C:\Users\Milica\Desktop\xa\htdocs\eapoteka\db.php on line 605
+[30-Jan-2020 22:46:05 Europe/Berlin] PHP Fatal error:  Problem preparing query (select * from lekovi l join kategorijalekova kl  on l.kategorijaID = kl.kategorijaID )  in C:\Users\Milica\Desktop\xa\htdocs\eapoteka\db.php on line 605
+[05-Feb-2020 15:09:20 Europe/Berlin] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in C:\Users\Milica\Desktop\xa\htdocs\eapoteka\db.php on line 604
+[05-Feb-2020 15:09:20 Europe/Berlin] PHP Warning:  MysqliDb::_prepareQuery(): Couldn't fetch mysqli in C:\Users\Milica\Desktop\xa\htdocs\eapoteka\db.php on line 605
+[05-Feb-2020 15:09:20 Europe/Berlin] PHP Fatal error:  Problem preparing query (select * from lekovi l join kategorijalekova kl  on l.kategorijaID = kl.kategorijaID )  in C:\Users\Milica\Desktop\xa\htdocs\eapoteka\db.php on line 605
+[07-Feb-2020 21:01:21 Europe/Berlin] PHP Notice:  Use of undefined constant location - assumed 'location' in C:\Users\Milica\Desktop\xa\htdocs\eapoteka\potvrdi.php on line 6
+[01-Jul-2020 23:46:08 Europe/Berlin] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in D:\xampp\htdocs\eapoteka\db.php on line 604
+[01-Jul-2020 23:46:08 Europe/Berlin] PHP Warning:  MysqliDb::_prepareQuery(): Couldn't fetch mysqli in D:\xampp\htdocs\eapoteka\db.php on line 605
+[01-Jul-2020 23:46:08 Europe/Berlin] PHP Fatal error:  Problem preparing query (select * from lekovi l join kategorijalekova kl  on l.kategorijaID = kl.kategorijaID )  in D:\xampp\htdocs\eapoteka\db.php on line 605
